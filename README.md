@@ -1,4 +1,0 @@
-Sudoku.puzzle
-=============
-
-Coding Challenge
